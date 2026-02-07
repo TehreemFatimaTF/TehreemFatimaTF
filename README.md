@@ -1,74 +1,58 @@
 <h1 align="center">Hi 👋, I'm Tehreem Fatima</h1>
-<h3 align="center">🚀 Web Developer | 🤖 Agentic AI Enthusiast | 🌍 From Pakistan</h3>
+<h3 align="center">Full-Stack Web Developer | Agentic AI Specialist | Python & Next.js Expert</h3>
 
 <p align="center">
   <em>✨ Building future-ready digital experiences powered by <b>creativity, intelligence, and innovation</b>. ✨</em>
 </p>
 
----
-
-### 🌱 About Me
-- 📖 Currently exploring **Agentic AI & Intelligent Automation**  
-- 👩‍💻 My portfolio → [View Projects](https://04-project-meri-website.vercel.app/)  
-- ✍️ I love sharing knowledge on my blog → [Read Articles](https://tf-blog-website.vercel.app/)  
-- 💡 Passionate about **LangChain, FastAPI, Next.js, AI-driven apps**  
-- ⚡ Fun fact: **I’m very innocent 🤗 (but tech-savvy!)**
-
----
-
-### 🌐 Connect With Me  
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=tehreem-fatima-rani123&label=Profile%20Views&color=0e76a8&style=flat" alt="Tehreem Fatima GitHub Views" />
+</p>
+
+---
+
+### 🌟 Professional Summary
+Main **Tehreem Fatima** hoon, ek passionate **Web Developer** aur **Agentic AI Enthusiast** jo Pakistan se digital innovation par kaam kar rahi hoon. Mera focus intelligent automation aur scalable web applications par hai. Google aur GitHub par mere projects dhoondne ke liye aap niche diye gaye links check kar sakte hain.
+
+- 🔭 **Specialization:** Agentic AI, LangChain, and Intelligent Automation.
+- 👩‍💻 **Portfolio:** [tehreem-fatima.vercel.app](https://04-project-meri-website.vercel.app/)
+- ✍️ **Tech Blog:** [Insights by Tehreem Fatima](https://tf-blog-website.vercel.app/)
+- 💡 **Tech Stack:** Passionate about **Next.js, FastAPI, TypeScript, and AI-driven apps**.
+- ⚡ **Fun Fact:** I’m tech-savvy with an innocent heart! 🤗
+
+---
+
+### 🛠️ Expertise & Toolbox
+| Category | Tech Stack |
+| --- | --- |
+| **Frontend** | React.js, Next.js, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, FastAPI, Python |
+| **AI & ML** | Agentic AI, LangChain, OpenAI, TensorFlow, PyTorch |
+| **Mobile & More** | React Native, TypeScript, Redux, Java |
+
+---
+
+### 🌐 Let's Connect!
+<p align="left">
   <a href="https://www.linkedin.com/in/tehreem-fatima-3318252ba/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tehreem Fatima LinkedIn"/>
   </a>
   <a href="https://github.com/tehreem-fatima-rani123" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tehreem Fatima GitHub"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Tehreem Fatima"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
-
+### 📊 My GitHub Journey
 <p align="center">
-
-<!-- 🌐 Web Dev -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-
-<!-- 🐍 Programming -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-
-<!-- 🤖 AI & ML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/85669144?s=200&v=4" alt="langchain" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" width="40" height="40"/>
-
-
-</p>
-
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tehreem-fatima-rani123&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehreem-fatima-rani123&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tehreem-fatima-rani123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tehreem Fatima Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehreem-fatima-rani123&layout=compact&theme=tokyonight" alt="Tehreem Fatima Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tehreem-fatima-rani123&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tehreem-fatima-rani123&theme=tokyonight" alt="Tehreem Fatima Streak" />
 </p>
-
----
-
-
