@@ -65,11 +65,6 @@ I'm currently exploring **Advanced General Agents** through Panaversity's Agent 
 
 
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tehreemfatimatf&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" width="100%" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
