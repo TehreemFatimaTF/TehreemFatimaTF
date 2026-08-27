@@ -56,20 +56,14 @@ I'm currently exploring **Advanced General Agents** through Panaversity's Agent 
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats & Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tehreemfatimatf&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0d1117&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehreemfatimatf&layout=compact&hide_border=true&title_color=00B4D8&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
-</div>
+
 
 <!-- GitHub Streak -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tehreemfatimatf&hide_border=true&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B4D8&sideLabels=ffffff&dates=ffffff&background=0d1117" alt="GitHub Streak" width="49%" />
 </div>
 
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tehreemfatimatf&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
+
 
 <!-- GitHub Trophies -->
 <div align="center">
@@ -190,21 +184,7 @@ I'm currently exploring **Advanced General Agents** through Panaversity's Agent 
 
 </div>
 
----
 
-## 🐍 Contribution Snake Animation
-
-<!-- Snake Animation - Shows your contribution graph as a snake eating your contributions -->
-<!-- Note: You need to set up the GitHub Actions workflow for this to work -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tehreemfatimatf/tehreemfatimatf/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tehreemfatimatf/tehreemfatimatf/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tehreemfatimatf/tehreemfatimatf/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
