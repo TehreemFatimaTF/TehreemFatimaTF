@@ -1,209 +1,138 @@
-<!--
-  TEHREEM FATIMA — GitHub Profile README
--->
+<div align="center">
+  
+  <!-- Banner / Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%26+Full-Stack+Developer;Building+Agentic+AI+Systems;RAG+Pipelines+%26+Intelligent+Voice+Agents;Turning+Ideas+into+Real+Products" alt="Typing SVG" />
 
-<h1 align="center">
-  Asalamu Aaikum 👋
-</h1>
+  <br/><br/>
 
-<h2 align="center">
-  TEHREEM FATIMA
-</h2>
+  **AI Engineer & Full-Stack Developer**  
+  Building **Agentic AI Systems**, **RAG Pipelines** & **Intelligent Voice Agents**
 
-<p align="center">
-  <strong>AI Engineer & Full-Stack Developer</strong><br/>
-  Building Agentic AI Systems, RAG Pipelines & Intelligent Voice Agents
-</p>
+  <br/>
 
-<p align="center">
-  <a href="https://github.com/tehreemfatimatf">
-    <img src="https://komarev.com/ghpvc/?username=tehreemfatimatf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/tehreemfatimatf?tab=followers">
-    <img src="https://img.shields.io/github/followers/tehreemfatimatf?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
+  [![Website](https://img.shields.io/badge/AgentraX-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agentrax.net/)
+  [![Email](https://img.shields.io/badge/Email-tf797855@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tf797855@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahasaif3)
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+### 👋 About Me
 
-I'm a **Full-Stack Developer and AI Engineer** focused on building intelligent, production-oriented applications.
+I'm a passionate **AI Engineer & Full-Stack Developer** focused on building production-ready **Agentic AI systems**, **RAG pipelines**, and **intelligent voice agents**.
 
-My current focus is on:
-
-- 🤖 Agentic AI & autonomous AI systems
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🎙️ AI Voice Agents
-- ⚡ Full-Stack web applications
-- 🔌 AI APIs & backend systems
-- 🐍 Python & FastAPI
-- ⚛️ React, Next.js & TypeScript
-- 🗄️ PostgreSQL, Redis & vector databases
-- 🐳 Docker & Linux
-
-I enjoy taking an idea from **concept → architecture → implementation → working product**.
+Currently leading engineering at **[AgentraX](https://agentrax.net/)** — turning complex ideas into real, scalable AI products.
 
 ---
 
-## 🚀 What I'm Currently Working On
+### 🚀 Current Focus
 
-- 🔭 Working with **AgentraX** on AI-powered products and agentic systems
-- 🌱 Learning **Agentic AI & Advanced General Agents**
-- 🧠 Exploring **RAG architectures, LLMs, AI orchestration and tool-using agents**
-- 🎙️ Building and exploring **AI voice agent systems**
-- ⚙️ Strengthening my **Python, FastAPI and backend engineering**
-- 🤝 Open to collaborating on meaningful **AI & Full-Stack projects**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-REST-000000?style=for-the-badge" />
-</p>
-
-### AI & Data
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+- 🔭 Working on **[AgentraX](https://agentrax.net/)** — Agentic AI platform for intelligent voice agents & RAG pipelines
+- 🌱 Learning **Agentic AI & Advanced General Agents** (Panaversity’s Agent Factory)
+- 👯 Looking to collaborate on **AI Agents & Agentic AI Projects**
+- 🤝 Open to help with **scalable AI agents** and production-ready systems
+- 💬 Ask me about: **Next.js • React • TypeScript • Tailwind • Python • FastAPI • AI Agents • RAG • Git**
+- ⚡ Fun fact: **I love turning ideas into real products**
 
 ---
 
-## 🌟 Featured Projects
+### 📊 GitHub Stats
 
-### 🤖 AgentraX
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tahasaif3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasaif3&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-AI-focused product development involving **agentic systems, AI automation, RAG pipelines and intelligent voice experiences**.
+<br/>
 
-**Focus:** Agentic AI · RAG · Voice AI · Full-Stack
-
-🔗 [Visit AgentraX](https://agentrax.net/)
-
----
-
-### 🛡️ SafeVision AI
-
-Real-time AI-powered industrial safety and monitoring platform.
-
-The system is designed around:
-
-- 🎥 Multi-camera AI vision
-- 🦺 PPE compliance detection
-- 🚨 Safety violation detection
-- 🔥 Fire & smoke detection
-- 🚷 Restricted-area monitoring
-- 👤 Person tracking
-- 📸 Automated violation snapshots
-- 📱 Real-time alerts
-
-**Tech:** Python · FastAPI · React · PostgreSQL · Redis · Docker · YOLO · ByteTrack
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahasaif3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🧠 RAG Chatbot
+### 🛠️ Tech Stack
 
-A Retrieval-Augmented Generation chatbot built to retrieve relevant knowledge from documents and provide context-aware answers.
+#### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Tech:** Python · FastAPI · Qdrant · LLMs · Docusaurus
+#### Backend & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-### 🛒 Chairy
-
-A modern e-commerce web application focused on furniture and chair products.
-
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · Sanity CMS
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tehreemfatimatf&show_icons=true&hide_border=true&theme=transparent&count_private=true"
-    alt="Tehreem's GitHub Stats"
-    width="48%"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehreemfatimatf&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-    alt="Top Languages"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tehreemfatimatf&hide_border=true&theme=transparent"
-    alt="GitHub Streak"
-    width="60%"
-  />
-</p>
+#### Tools & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📈 Contribution Activity
+### 🌟 Featured Projects
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tehreemfatimatf&theme=github-compact&hide_border=true"
-    alt="Contribution Graph"
-    width="100%"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AgentraX</h3>
+      Agentic AI platform for building intelligent voice agents and RAG pipelines.<br/><br/>
+      <a href="https://agentrax.net/">🔗 Live Demo</a>
+    </td>
+    <td width="50%">
+      <h3>🧠 AI RAG Pipeline</h3>
+      End-to-end Retrieval-Augmented Generation pipeline with vector databases and LLMs.<br/><br/>
+      <a href="#">🔗 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📱 Flutter Chat App</h3>
+      Cross-platform messaging app with real-time sync and push notifications.<br/><br/>
+      <a href="#">🔗 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>⚡ Next.js Dashboard</h3>
+      Admin dashboard with real-time analytics, charts, and dark mode.<br/><br/>
+      <a href="#">🔗 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🐳 Docker Compose AI Stack</h3>
+      Orchestrated multi-container setup for AI apps (FastAPI + Kafka + Postgres).<br/><br/>
+      <a href="#">🔗 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>🧩 Agentic AI Toolkit</h3>
+      Modular framework for building, testing, and deploying AI agents.<br/><br/>
+      <a href="#">🔗 Repo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Current Learning Journey
+### 📫 Connect with Me
 
-```text
-Frontend
-   ↓
-Full-Stack Development
-   ↓
-Backend Engineering
-   ↓
-LLMs & RAG
-   ↓
-AI Agents
-   ↓
-Production AI Systems
+<div align="center">
+
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tf797855@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agentrax.net/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tahasaif3&style=flat-square&color=blue" alt="Profile Views" />
+  <br/><br/>
+  <i>Thanks for visiting! Let's build something amazing together 🚀</i>
+</div>
