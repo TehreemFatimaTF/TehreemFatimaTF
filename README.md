@@ -1,136 +1,224 @@
+<!--
+  TEHREEM FATIMA - GitHub Profile README (Animated & Dynamic)
+  Replace all instances of "YOUR_USERNAME" and "YOUR_LINKEDIN" with your actual handle.
+  Also update the featured projects section with your actual project links.
+-->
+
 <div align="center">
 
-# 👋 Assalamu Alaikum, I'm Tehreem Fatima
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum+%F0%9F%91%8B;I'm+Tehreem+Fatima;AI+Engineer+%26+Full-Stack+Developer;Building+Agentic+AI+Systems;RAG+Pipelines+%26+Voice+Agents" alt="Typing SVG" />
 
-### AI Engineer & Full-Stack Developer
+<!-- Animated Banner / GIF (replace with your own GIF if desired) -->
+<img src="https://raw.githubusercontent.com/tehreemfatimatf/tehreemfatimatf/main/assets/banner.gif" alt="Banner" width="100%" style="border-radius: 12px; max-width: 800px;" />
 
-Building **Agentic AI Systems • RAG Pipelines • AI Voice Agents**
+<!-- Social Badges with Hover Effects -->
+<p>
+  <a href="https://github.com/tehreemfatimatf">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tehreem-fatima-3318252ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tf797855@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tehreemtf0112">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tehreemfatimatf">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tf797855@gmail.com)
+<!-- Profile Views Counter (Animated) -->
+<img src="https://komarev.com/ghpvc/?username=tehreemfatimatf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-I'm an **AI Engineer & Full-Stack Developer** passionate about turning ideas into real-world products.
+<!-- Animated Wave -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hey there! I'm an **AI Engineer & Full-Stack Developer** focused on building practical, production-ready AI applications.
 
-My current focus is on building:
+My current focus is **Agentic AI, RAG systems, AI voice agents, backend engineering, and modern web applications**.
 
-- 🤖 **Agentic AI Systems**
-- 🧠 **RAG Pipelines**
-- 🎙️ **AI Voice Agents**
-- ⚡ **Full-Stack Web Applications**
-- 🔌 **AI-powered APIs & Backend Systems**
+I'm currently exploring **Advanced General Agents** through Panaversity's Agent Factory.
 
-I'm currently deepening my knowledge of **Agentic AI and Advanced General Agents** through Panaversity's Agent Factory.
+- 🔭 Currently working on **Agentic AI Products**
+- 🌱 Learning **Agentic AI, RAG & AI Voice Agents**
+- 💻 Building with **Next.js, React, TypeScript, Python & FastAPI**
+- 🧠 Exploring **LLMs, AI Agents & intelligent automation**
+- 🗄️ Working with **PostgreSQL, Redis, Qdrant & Docker**
+- 🤝 Open to collaborating on **AI & Full-Stack projects**
+- ⚡ I love turning ideas into real products
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<div align="center">
+
+<!-- Animated Stats Cards with fade-in effect -->
+<img src="https://github-readme-stats.vercel.app/api?username=tehreemfatimatf&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0d1117&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehreemfatimatf&layout=compact&hide_border=true&title_color=00B4D8&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tehreemfatimatf&hide_border=true&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B4D8&sideLabels=ffffff&dates=ffffff&background=0d1117" alt="GitHub Streak" width="49%" />
+
+<!-- Contribution Graph (Animated on load) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tehreemfatimatf&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+
+<!-- Trophy Case (Animated) -->
+<img src="https://github-profile-trophy.vercel.app/?username=tehreemfatimatf&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" width="100%" />
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,redis&perline=5" />
-</p>
-
-### AI & Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,docker,git,github,linux,vscode&perline=8" />
-</p>
-
-**AI:** Agentic AI • RAG • LLM Applications • AI Voice Agents • Prompt Engineering
-
----
-
-## 🚀 What I'm Building
-
-### 🤖 Agentic AI
-
-Designing intelligent systems that can reason, use tools, retrieve information, and complete tasks autonomously.
-
-### 🧠 RAG Systems
-
-Building retrieval-augmented generation pipelines using vector databases, embeddings, and LLMs.
-
-### 🎙️ AI Voice Agents
-
-Exploring intelligent voice systems for real-time conversations, automation, and sales.
-
-### 🌐 Full-Stack Applications
-
-Building modern web applications with **Next.js, TypeScript, Python, FastAPI, and PostgreSQL**.
-
----
-
-## 🌟 Featured Projects
-
-> 🚧 Projects are continuously being built and improved.
-
-### 🛡️ SafeVision AI
-
-Real-time AI-powered industrial safety and monitoring platform.
-
-**Tech:** Python • FastAPI • YOLO • Redis • PostgreSQL • React • Docker
-
----
-
-### 🤖 AI RAG Chatbot
-
-A Retrieval-Augmented Generation chatbot capable of answering questions from custom knowledge bases.
-
-**Tech:** Python • FastAPI • Qdrant • LLMs • RAG
-
----
-
-### 📞 AI Voice Sales Agent
-
-Exploring intelligent voice agents for automated conversations, lead qualification, and sales workflows.
-
-**Tech:** AI Agents • LLMs • Voice AI • Python • APIs
-
----
-
-## 📊 GitHub Stats
-
+<!-- Animated Tech Stack Icons with hover effects -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<br><br>
+### 🧠 AI & ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00B4D8?style=for-the-badge&logo=langchain&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+### 🗄️ Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-00B4D8?style=for-the-badge&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🌟 Featured Projects
 
-```text
-Agentic AI
-        ↓
-LLM Applications
-        ↓
-RAG & Vector Databases
-        ↓
-AI Voice Agents
-        ↓
-Backend Engineering
-        ↓
-Production AI Systems
+<!-- Animated Project Cards with hover effects -->
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Agentic AI Systems</h3>
+      <p>Building intelligent AI agents capable of reasoning, tool use, retrieval and automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-00B4D8?style=flat&logo=langchain&logoColor=white" />
+      </p>
+      <p>
+        <a href="#">🔗 Live Demo</a> • 
+        <a href="#">⭐ Stars</a> • 
+        <a href="#">🍴 Forks</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🛡️ SafeVision AI</h3>
+      <p>AI-powered industrial safety and monitoring system using computer vision for real-time safety detection and alerts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLO-00B4D8?style=flat&logo=yolo&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        <a href="#">🔗 Repo</a> • 
+        <a href="#">⭐ Stars</a> • 
+        <a href="#">🍴 Forks</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 RAG Chatbot</h3>
+      <p>A retrieval-augmented generation system combining document retrieval with LLM-powered responses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qdrant-00B4D8?style=flat&logo=qdrant&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+      </p>
+      <p>
+        <a href="#">🔗 Repo</a> • 
+        <a href="#">⭐ Stars</a> • 
+        <a href="#">🍴 Forks</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🛒 Full-Stack Web Applications</h3>
+      <p>Building modern production-ready applications using Next.js, TypeScript, Tailwind CSS and backend APIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+      </p>
+      <p>
+        <a href="#">🔗 Repo</a> • 
+        <a href="#">⭐ Stars</a> • 
+        <a href="#">🍴 Forks</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Activity & Contributions
+
+<!-- Contribution Snake Animation (Dark Version) -->
+<div align="center">
+  <img src="https://github.com/tehreemfatimatf/tehreemfatimatf/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **AI engineering, agentic systems, full-stack development and building useful products.**
+
+<div align="center">
+
+📧 **tf797855@gmail.com**
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=100&section=footer" width="100%" />
+
+---
+
+### 💡 Build. Learn. Ship. Repeat.
+
+<!-- Animated "Powered by" badge -->
+<img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-00B4D8?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+
+</div>
