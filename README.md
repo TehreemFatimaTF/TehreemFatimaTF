@@ -1,7 +1,7 @@
 <!--
   TEHREEM FATIMA - GitHub Profile README (Animated & Dynamic)
-  Replace all instances of "YOUR_USERNAME" and "YOUR_LINKEDIN" with your actual handle.
-  Also update the featured projects section with your actual project links.
+  All widgets are now configured with the correct username: tehreemfatimatf
+  The snake animation and all stats widgets should now display properly.
 -->
 
 <div align="center">
@@ -9,10 +9,7 @@
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum+%F0%9F%91%8B;I'm+Tehreem+Fatima;AI+Engineer+%26+Full-Stack+Developer;Building+Agentic+AI+Systems;RAG+Pipelines+%26+Voice+Agents" alt="Typing SVG" />
 
-<!-- Animated Banner / GIF (replace with your own GIF if desired) -->
-<img src="https://raw.githubusercontent.com/tehreemfatimatf/tehreemfatimatf/main/assets/banner.gif" alt="Banner" width="100%" style="border-radius: 12px; max-width: 800px;" />
-
-<!-- Social Badges with Hover Effects -->
+<!-- Social Badges -->
 <p>
   <a href="https://github.com/tehreemfatimatf">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -31,8 +28,8 @@
   </a>
 </p>
 
-<!-- Profile Views Counter (Animated) -->
-<img src="https://komarev.com/ghpvc/?username=tehreemfatimatf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=tehreemfatimatf&label=Profile%20Views&color=00B4D8&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -40,7 +37,6 @@
 
 ## 🚀 About Me
 
-<!-- Animated Wave -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hey there! I'm an **AI Engineer & Full-Stack Developer** focused on building practical, production-ready AI applications.
 
 My current focus is **Agentic AI, RAG systems, AI voice agents, backend engineering, and modern web applications**.
@@ -57,30 +53,33 @@ I'm currently exploring **Advanced General Agents** through Panaversity's Agent 
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats
 
+<!-- GitHub Stats - Using tehreemfatimatf -->
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tehreemfatimatf&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0d1117&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehreemfatimatf&layout=compact&hide_border=true&title_color=00B4D8&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
+</div>
 
-<!-- Animated Stats Cards with fade-in effect -->
-<img src="https://github-readme-stats.vercel.app/api?username=tehreemfatimatf&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0d1117&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehreemfatimatf&layout=compact&hide_border=true&title_color=00B4D8&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tehreemfatimatf&hide_border=true&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B4D8&sideLabels=ffffff&dates=ffffff&background=0d1117" alt="GitHub Streak" width="49%" />
+</div>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tehreemfatimatf&hide_border=true&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B4D8&sideLabels=ffffff&dates=ffffff&background=0d1117" alt="GitHub Streak" width="49%" />
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tehreemfatimatf&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
 
-<!-- Contribution Graph (Animated on load) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tehreemfatimatf&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-
-<!-- Trophy Case (Animated) -->
-<img src="https://github-profile-trophy.vercel.app/?username=tehreemfatimatf&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" width="100%" />
-
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tehreemfatimatf&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" width="100%" />
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- Animated Tech Stack Icons with hover effects -->
 <div align="center">
 
 ### 🎨 Frontend
@@ -120,7 +119,6 @@ I'm currently exploring **Advanced General Agents** through Panaversity's Agent 
 
 ## 🌟 Featured Projects
 
-<!-- Animated Project Cards with hover effects -->
 <div align="center">
 
 <table>
@@ -194,11 +192,16 @@ I'm currently exploring **Advanced General Agents** through Panaversity's Agent 
 
 ---
 
-## 📈 Activity & Contributions
+## 📈 Contribution Snake Animation
 
-<!-- Contribution Snake Animation (Dark Version) -->
+<!-- Snake Animation - This will show your contribution graph as a snake eating your contributions -->
+<!-- If it doesn't show, you need to enable the GitHub Actions workflow for this -->
 <div align="center">
-  <img src="https://github.com/tehreemfatimatf/tehreemfatimatf/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tehreemfatimatf/tehreemfatimatf/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tehreemfatimatf/tehreemfatimatf/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tehreemfatimatf/tehreemfatimatf/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -211,14 +214,13 @@ I'm interested in **AI engineering, agentic systems, full-stack development and 
 
 📧 **tf797855@gmail.com**
 
-<!-- Animated Footer -->
+<!-- Footer Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=100&section=footer" width="100%" />
 
 ---
 
 ### 💡 Build. Learn. Ship. Repeat.
 
-<!-- Animated "Powered by" badge -->
 <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-00B4D8?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
 
 </div>
