@@ -1,7 +1,7 @@
 <!--
   TEHREEM FATIMA - GitHub Profile README (Animated & Dynamic)
   All widgets are now configured with the correct username: tehreemfatimatf
-  The snake animation and all stats widgets should now display properly.
+  All sections are properly formatted and displayed.
 -->
 
 <div align="center">
@@ -55,7 +55,7 @@ I'm currently exploring **Advanced General Agents** through Panaversity's Agent 
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats - Using tehreemfatimatf -->
+<!-- GitHub Stats & Top Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tehreemfatimatf&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0d1117&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehreemfatimatf&layout=compact&hide_border=true&title_color=00B4D8&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
@@ -192,10 +192,10 @@ I'm currently exploring **Advanced General Agents** through Panaversity's Agent 
 
 ---
 
-## 📈 Contribution Snake Animation
+## 🐍 Contribution Snake Animation
 
-<!-- Snake Animation - This will show your contribution graph as a snake eating your contributions -->
-<!-- If it doesn't show, you need to enable the GitHub Actions workflow for this -->
+<!-- Snake Animation - Shows your contribution graph as a snake eating your contributions -->
+<!-- Note: You need to set up the GitHub Actions workflow for this to work -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tehreemfatimatf/tehreemfatimatf/output/github-contribution-grid-snake-dark.svg" />
